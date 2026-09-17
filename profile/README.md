@@ -1,93 +1,144 @@
-# PK IMM Kaizen
+<div align="center">
 
-**Pimpinan Komisariat Ikatan Mahasiswa Muhammadiyah Kaizen  
-Universitas Muhammadiyah Surabaya**
+  <img src="./logo.jpg" alt="Logo PK IMM Kaizen" width="150"/>
 
-Repository ini merupakan bagian dari ekosistem digital resmi
-PK IMM Kaizen yang digunakan untuk mendukung pengembangan,
-dokumentasi, dan pemeliharaan sistem digital organisasi.
+  <h1>PK IMM Kaizen</h1>
+
+  <p>
+    <strong>Pimpinan Komisariat Ikatan Mahasiswa Muhammadiyah Kaizen</strong><br>
+    Universitas Muhammadiyah Surabaya
+  </p>
+
+  <p>
+    <a href="WEBSITE_URL">
+      <img src="https://img.shields.io/badge/Website%20Resmi-CC1021?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website Resmi"/>
+    </a>
+    <a href="INSTAGRAM_URL">
+      <img src="https://img.shields.io/badge/Instagram-CC1021?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    </a>
+  </p>
+
+</div>
+
+<br>
+
+<div align="center">
+
+> **Ruang digital resmi PK IMM Kaizen untuk berkarya, berproses,  
+> mendokumentasikan, dan mengembangkan ekosistem organisasi.**
+
+</div>
+
+---
+
+## 🏛️ Tentang PK IMM Kaizen
+
+**PK IMM Kaizen** merupakan Pimpinan Komisariat Ikatan Mahasiswa
+Muhammadiyah Kaizen Universitas Muhammadiyah Surabaya.
+
+GitHub Organization ini menjadi ruang pengembangan dan dokumentasi
+ekosistem digital PK IMM Kaizen.
+
+Repository yang berada di dalam organization ini dapat digunakan untuk
+pengembangan website, dokumentasi, panduan, maupun kebutuhan digital
+organisasi lainnya.
 
 ---
 
 ## 🌐 Website Resmi
 
-Website resmi PK IMM Kaizen berfungsi sebagai wajah digital
-organisasi sekaligus pusat informasi dan publikasi organisasi.
+**Website Resmi PK IMM Kaizen** merupakan wajah digital organisasi
+yang menjadi pusat informasi, publikasi, komunikasi, serta
+pengembangan berbagai layanan digital organisasi.
 
-Website mencakup informasi mengenai:
+Website mencakup beberapa bagian utama:
 
-- Profil organisasi
-- Kepengurusan
-- Bidang
-- Berita dan dokumentasi
-- Kajian & Pemikiran
-- Ekowir
-- Kaizen Company
-- Alumni
-- Kontak
-- Aspirasi Mahasiswa
+| Bagian | Deskripsi |
+|:---|:---|
+| 🏛️ **Profil** | Informasi dan identitas organisasi |
+| 👥 **Kepengurusan** | Informasi struktur dan pengurus |
+| 🏢 **Bidang** | Informasi bidang dan aktivitas organisasi |
+| 📰 **Berita** | Publikasi berita dan dokumentasi |
+| 📚 **Kajian & Pemikiran** | Kajian, pemikiran, dan tulisan organisasi |
+| 💼 **Ekowir** | Informasi kegiatan ekonomi dan kewirausahaan |
+| 🛍️ **Kaizen Company** | Produk kreatif dan usaha PK IMM Kaizen |
+| 🎓 **Alumni** | Informasi alumni terpilih dan kontribusinya |
+| 💬 **Aspirasi Mahasiswa** | Media penyampaian aspirasi mahasiswa |
+| 📞 **Kontak** | Informasi kontak dan media sosial organisasi |
 
-> Website:
-> **[Coming Soon / URL Website]**
+<br>
+
+<div align="center">
+
+<a href="WEBSITE_URL">
+  <img src="https://img.shields.io/badge/Kunjungi%20Website%20Resmi-CC1021?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Kunjungi Website"/>
+</a>
+
+</div>
 
 ---
 
 ## 📦 Repository
 
-Organization ini dapat memiliki beberapa repository yang
-mendukung pengembangan dan dokumentasi sistem digital PK IMM Kaizen.
+Organization ini digunakan sebagai ruang pengelolaan berbagai
+repository yang mendukung ekosistem digital PK IMM Kaizen.
 
-| Repository | Deskripsi |
-|---|---|
-| `website-resmi` | Source code Website Resmi PK IMM Kaizen |
-| `docs` | Dokumentasi teknis dan produk |
-| `guide` | Panduan penggunaan dan pengelolaan sistem |
+| Repository | Fungsi |
+|:---|:---|
+| 🌐 **Website Resmi** | Source code website resmi PK IMM Kaizen |
+| 📚 **Documentation** | Dokumentasi produk dan teknis |
+| 📖 **Guide** | Panduan penggunaan, pengelolaan, dan handover |
+| 🎨 **Design** | Asset dan kebutuhan desain apabila diperlukan |
 
-Struktur repository dapat berkembang mengikuti kebutuhan
-organisasi dan periode kepengurusan.
+> Repository dapat bertambah atau berubah mengikuti kebutuhan
+> organisasi dan perkembangan sistem digital.
 
 ---
 
-## 🛠️ Teknologi
+## 🛠️ Technology
 
 Website Resmi PK IMM Kaizen dikembangkan menggunakan teknologi
-modern dengan pendekatan full-stack dalam satu aplikasi.
+full-stack dalam satu aplikasi.
 
-Teknologi utama:
+<div align="center">
 
-- Next.js
-- TypeScript
-- Supabase
-  - PostgreSQL
-  - Authentication
-  - Storage
-- Vercel
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
 
-Integrasi eksternal:
+</div>
 
-- WhatsApp
-- PWMU
+### Integrasi
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+<img src="https://img.shields.io/badge/PWMU-CC1021?style=flat-square" alt="PWMU"/>
+
+</div>
 
 ---
 
 ## 📚 Dokumentasi
 
-Dokumentasi pengembangan sistem disusun untuk memastikan sistem
-dapat dipahami, dikembangkan, dan diteruskan oleh pengurus atau
-developer pada periode berikutnya.
+Dokumentasi pengembangan sistem disusun untuk membantu proses
+pengembangan, pemeliharaan, dan keberlanjutan sistem pada periode
+kepengurusan berikutnya.
 
-Dokumentasi dapat mencakup:
+Dokumentasi utama meliputi:
 
-- Product Discovery
-- Product Requirements Document (PRD)
-- Technical System Specification (TSS)
-- Database Design
-- API Specification
-- UI/UX Specification
-- Development Documentation
-- Deployment & Handover Guide
+- 📋 **Product Discovery**
+- 📝 **Product Requirements Document (PRD)**
+- ⚙️ **Technical System Specification (TSS)**
+- 🗄️ **Database Design**
+- 🔌 **API Specification**
+- 🎨 **UI/UX Specification**
+- 🚀 **Deployment Documentation**
+- 🔄 **Handover Guide**
 
-Dokumentasi teknis tersedia pada repository terkait.
+Dokumentasi teknis tersedia pada repository dokumentasi terkait.
 
 ---
 
@@ -95,58 +146,86 @@ Dokumentasi teknis tersedia pada repository terkait.
 
 Website menggunakan satu level akses aplikasi:
 
-**Super Admin**
+<div align="center">
 
-Super Admin bertanggung jawab terhadap pengelolaan konten,
-data, konfigurasi, dan operasional sistem melalui dashboard.
+<img src="https://img.shields.io/badge/Role-SUPER%20ADMIN-CC1021?style=for-the-badge" alt="Super Admin"/>
 
-Pengurus atau bidang lain yang membutuhkan perubahan data atau
-konten berkoordinasi dengan Super Admin.
+</div>
+
+Super Admin bertanggung jawab terhadap pengelolaan sistem,
+konten, data, media, serta operasional website.
+
+Pengurus atau bidang yang membutuhkan perubahan data maupun konten
+melakukan koordinasi dengan pengelola sistem.
 
 ---
 
 ## 🔄 Keberlanjutan
 
-Sistem ini dirancang agar dapat digunakan dan diteruskan pada
-periode kepengurusan berikutnya.
+Ekosistem digital PK IMM Kaizen dirancang dengan mempertimbangkan
+keberlanjutan antarperiode kepengurusan.
 
-Karena itu, pengembangan sistem memperhatikan:
+Pengembangan memperhatikan:
 
-- Dokumentasi yang jelas
-- Struktur project yang terorganisir
-- Pengelolaan akses berbasis organisasi
-- Keamanan credential dan environment
-- Kemudahan maintenance
-- Proses handover kepada penerus
+- 📖 Dokumentasi yang jelas
+- 🧩 Struktur project yang terorganisir
+- 🔐 Keamanan credential dan environment
+- 🏢 Kepemilikan akun berbasis organisasi
+- 🔄 Kemudahan maintenance
+- 👥 Proses handover yang jelas
 
-Informasi yang bersifat rahasia seperti API key, password,
-service role key, dan credential lainnya **tidak disimpan di
-repository publik**.
-
----
-
-## 🤝 Kontribusi
-
-Pengembangan dan perubahan pada sistem dilakukan dengan
-memperhatikan kebutuhan organisasi serta koordinasi dengan
-pihak yang bertanggung jawab.
-
-Untuk perubahan pada Website Resmi PK IMM Kaizen, silakan
-berkoordinasi dengan pengelola sistem.
+Informasi sensitif seperti password, API key, service role key,
+dan credential lainnya **tidak disimpan di repository**.
 
 ---
 
-## 📬 Kontak
+## 🤝 Development
 
-**PK IMM Kaizen**  
-Pimpinan Komisariat Ikatan Mahasiswa Muhammadiyah Kaizen  
-Universitas Muhammadiyah Surabaya
+Pengembangan sistem dilakukan dengan memperhatikan kebutuhan
+organisasi serta koordinasi dengan pihak yang bertanggung jawab.
 
-Website: **[URL Website]**  
-Instagram: **[Instagram PK IMM Kaizen]**  
-Email: **[Email Organisasi]**
+Perubahan pada sistem, penambahan fitur, maupun pengelolaan
+repository mengikuti dokumentasi dan prosedur pengembangan yang
+telah ditetapkan.
 
 ---
 
-> **Website Resmi PK IMM Kaizen**  
-> Digitalisasi informasi, komunikasi, dan pengembangan organisasi.
+## 📬 Contact
+
+<div align="center">
+
+### PK IMM Kaizen
+
+**Pimpinan Komisariat Ikatan Mahasiswa Muhammadiyah Kaizen**  
+**Universitas Muhammadiyah Surabaya**
+
+<br>
+
+<a href="WEBSITE_URL">
+  <img src="https://img.shields.io/badge/Website-CC1021?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
+</a>
+<a href="INSTAGRAM_URL">
+  <img src="https://img.shields.io/badge/Instagram-CC1021?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="EMAIL_URL">
+  <img src="https://img.shields.io/badge/Email-CC1021?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+</div>
+
+---
+
+<br>
+
+<div align="center">
+
+  <img src="./logo.jpg" alt="PK IMM Kaizen" width="80"/>
+
+  <br><br>
+
+  <sub>
+    <strong>PK IMM Kaizen</strong><br>
+    Universitas Muhammadiyah Surabaya
+  </sub>
+
+</div>
