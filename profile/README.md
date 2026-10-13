@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="./logo.jpg" alt="Logo PK IMM Kaizen" width="150"/>
+  <img src="./logo.png" alt="Logo PK IMM Kaizen" width="150"/>
 
   <h1>PK IMM Kaizen</h1>
 
