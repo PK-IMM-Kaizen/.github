@@ -219,7 +219,7 @@ telah ditetapkan.
 
 <div align="center">
 
-  <img src="./logo.jpg" alt="PK IMM Kaizen" width="80"/>
+  <img src="./logo.png" alt="PK IMM Kaizen" width="80"/>
 
   <br><br>
 
